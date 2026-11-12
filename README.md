@@ -157,10 +157,11 @@ Participé en la construcción de una **plataforma de automatización inteligent
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SebastianZarate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianZarate&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+[![Seguidores](https://img.shields.io/github/followers/SebastianZarate?style=for-the-badge&logo=github&color=203a43)](https://github.com/SebastianZarate?tab=followers)
+[![Repositorios](https://img.shields.io/badge/Repositorios-Ver_todos-2c5364?style=for-the-badge&logo=github)](https://github.com/SebastianZarate?tab=repositories)
+[![Visitas](https://komarev.com/ghpvc/?username=SebastianZarate&label=Visitas&style=for-the-badge&color=0f2027)](https://github.com/SebastianZarate)
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianZarate&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 
